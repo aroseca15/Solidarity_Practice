@@ -1,7 +1,7 @@
 # Solidity Practice 
 
 ## Description:
-Like the Java Project, this too is a collective project in that I will have multiple folders. Each folder will have the title of the place or class that I have gathered knowledge from. The purpose of the folder names is to give ongoing credit to the platforms and instructors that I have learned from. The purpose of this collective project is to learn Smart Contracts and have through understanding of how they relate to crypto currencies. Also, to find ways the Smart Contracts can branch out for other practical purposes beyond crypto currencies. 
+Like the Java Project, this too is a collective project in that I will have multiple folders. Each folder will have the title of the place or class that I have gathered knowledge from. The purpose of the folder names is to give ongoing credit to the platforms and instructors that I have learned from. The purpose of this collective project is to learn Smart Contracts and have through understanding of how they relate to crypto currencies. Also, more than one learning source is included for one main reason, to explore different methods of coding the actual smart contract and to be familiar with multiple tools. My main goal is to find ways the Smart Contracts can branch out for other practical purposes beyond crypto currencies. 
 
 ### Deployment Link: Code Samples
    
