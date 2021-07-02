@@ -25,6 +25,29 @@ uint8, uint16,..uint256;   8 to 256 bit unsigned integers;
 string message;            String of characters;
 address userAddress;       Ethereum address;   
 
+VARIABLES:
+Can be defined in the body of a method that has parameters:
+
+contract Greeter {
+    uint public value;
+    string public message;
+    function setValues(uint newVal, string newMsg) public {
+        uint updateVal = newVal + 1;                     (This line will update the state of the contract.)
+        value = newVal;
+        message = newMsg;
+    }
+}
+
+CONSTANTS:
+Const variables can be used but will be more efficient if the type of the const is specified in addition to the name:
+
+contract Greeter{
+    uint const MS_IN_SEC = 1000;
+}
+
+OPERATORS:
+
+
 
 
 
